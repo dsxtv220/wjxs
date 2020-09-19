@@ -1,0 +1,195 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv1.png" group-title="China",CCTV-1综合
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv1cn.m3u8
+#EXTINF:-1 tvg-id="cctv2.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv2.png" group-title="China",CCTV-2财经
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv2cn.m3u8
+#EXTINF:-1 tvg-id="cctv3.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv3.png" group-title="China",CCTV-3综艺
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv3cn.m3u8
+#EXTINF:-1 tvg-id="cctv4.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv4.png" group-title="China",CCTV-4中文国际
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv4cn.m3u8
+#EXTINF:-1 tvg-id="cctv5.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv5.png" group-title="China",CCTV-5体育
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv5cn.m3u8
+#EXTINF:-1 tvg-id="cctv5plus.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv5plus.png" group-title="China",CCTV-5体育赛事
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv5pluscn.m3u8
+#EXTINF:-1 tvg-id="cctv6.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv6.png" group-title="China",CCTV-6电影
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv6cn.m3u8
+#EXTINF:-1 tvg-id="cctv7.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv7.png" group-title="China",CCTV-7国防军事
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv7cn.m3u8
+#EXTINF:-1 tvg-id="cctv8.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv8.png" group-title="China",CCTV-8电视剧
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv8cn.m3u8
+#EXTINF:-1 tvg-id="cctv9.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv9.png" group-title="China",CCTV-9纪录
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv9cn.m3u8
+#EXTINF:-1 tvg-id="cctv10.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv10.png" group-title="China",CCTV-10科教
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv10cn.m3u8
+#EXTINF:-1 tvg-id="cctv11.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv11.png" group-title="China",CCTV-11戏曲
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv11cn.m3u8
+#EXTINF:-1 tvg-id="cctv12.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv12.png" group-title="China",CCTV-12社会与法
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv12cn.m3u8
+#EXTINF:-1 tvg-id="cctv13.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv13.png" group-title="China",CCTV-13新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv13cn.m3u8
+#EXTINF:-1 tvg-id="cctv14.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv14.png" group-title="China",CCTV-14少儿
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv14cn.m3u8
+#EXTINF:-1 tvg-id="cctv15.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv15.png" group-title="China",CCTV-15音乐
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv15cn.m3u8
+#EXTINF:-1 tvg-id="cctv17.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv17.png" group-title="China",CCTV-17农村农业
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv17cn.m3u8
+#EXTINF:-1 tvg-id="cctv4k.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv4k.png" group-title="China",CCTV-4K超高清
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv4kcn.m3u8
+#EXTINF:-1 tvg-id="cgtn.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cgtn.png" group-title="China",CGTN
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cgtncn.m3u8
+#EXTINF:-1 tvg-id="hunantv.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/hunantv.png" group-title="China",湖南卫视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/hunantvcn.m3u8
+#EXTINF:-1 tvg-id="beijingtv.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/beijingtv.png" group-title="China",北京卫视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/beijingtvcn.m3u8
+#EXTINF:-1 tvg-id="zhejiangtv.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/zhejiangtv.png" group-title="China",浙江卫视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/zhejiangtvcn.m3u8
+#EXTINF:-1 tvg-id="jiangsutv.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/jiangsutv.png" group-title="China",江苏卫视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/jiangsutvcn.m3u8
+#EXTINF:-1 tvg-id="dongfangtv.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/dongfangtv.png" group-title="China",东方卫视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/dongfangtvcn.m3u8
+#EXTINF:-1 tvg-id="anhuitv.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/anhuitv.png" group-title="China",安徽卫视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/anhuitvcn.m3u8
+#EXTINF:-1 tvg-id="shenzhentv.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/shenzhentv.png" group-title="China",深圳卫视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/shenzhentvcn.m3u8
+
+#EXTINF:-1 tvg-id="ctv.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ctv.png" group-title="Taiwan",中视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ctvtw.m3u8
+#EXTINF:-1 tvg-id="ctvnews.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ctvnews.png" group-title="Taiwan",中视新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ctvnewstw.m3u8
+#EXTINF:-1 tvg-id="ttv.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ttv.png" group-title="Taiwan",台视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ttvtw.m3u8
+#EXTINF:-1 tvg-id="ttvnews.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ttvnews.png" group-title="Taiwan",台视新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ttvnewstw.m3u8
+#EXTINF:-1 tvg-id="cts.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cts.png" group-title="Taiwan",華视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ctstw.m3u8
+#EXTINF:-1 tvg-id="ctsnews.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ctsnews.png" group-title="Taiwan",華视新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ctsnewstw.m3u8
+#EXTINF:-1 tvg-id="ftv.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ftv.png" group-title="Taiwan",民视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ftvtw.m3u8
+#EXTINF:-1 tvg-id="ftvnews.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ftvnews.png" group-title="Taiwan",民视新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ftvnewstw.m3u8
+#EXTINF:-1 tvg-id="ctizhonghe.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ctizhonghe.png" group-title="Taiwan",中天综合
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ctizhonghetw.m3u8
+#EXTINF:-1 tvg-id="ctinews.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ctinews.png" group-title="Taiwan",中天新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ctinewstw.m3u8
+#EXTINF:-1 tvg-id="ebczhonghe.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ebczhonghe.png" group-title="Taiwan",东森综合
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ebczhonghetw.m3u8
+#EXTINF:-1 tvg-id="ebcnews.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ebcnews.png" group-title="Taiwan",东森新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ebcnewstw.m3u8
+#EXTINF:-1 tvg-id="setnzhonghe.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/setnzhonghe.png" group-title="Taiwan",三立综合
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/setnzhonghetw.m3u8
+#EXTINF:-1 tvg-id="setnnews.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/setnnews.png" group-title="Taiwan",三立新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/setnnewstw.m3u8
+#EXTINF:-1 tvg-id="gtvfirst.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/gtvfirst.png" group-title="Taiwan",八大第一
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/gtvfirsttw.m3u8
+#EXTINF:-1 tvg-id="gtvzhonghe.tw" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/gtvzhonghe.png" group-title="Taiwan",八大综合
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/gtvzhonghetw.m3u8
+
+#EXTINF:-1 tvg-id="phoenixcn.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/phoenixcn.png" group-title="HongKong",凤凰中文
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/phoenixcnhk.m3u8
+#EXTINF:-1 tvg-id="phoenixtv.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/phoenixtv.png" group-title="HongKong",凤凰卫视
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/phoenixtvhk.m3u8
+#EXTINF:-1 tvg-id="phoenixinfo.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/phoenixinfo.png" group-title="HongKong",凤凰资讯
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/phoenixnewshk.m3u8
+#EXTINF:-1 tvg-id="phoenixhk.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/phoenixhk.png" group-title="HongKong",凤凰香港
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/phoenixhkhk.m3u8
+#EXTINF:-1 tvg-id="tvbnews.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/tvbnews.png" group-title="HongKong",TVB新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/tvbnewshk.m3u8
+#EXTINF:-1 tvg-id="tvbfinance.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/tvbfinance.png" group-title="HongKong",TVB财经新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/tvbfinancehk.m3u8
+#EXTINF:-1 tvg-id="tvbjade.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/tvbjade.png" group-title="HongKong",TVB翡翠
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/tvbjadehk.m3u8
+#EXTINF:-1 tvg-id="tvbj2.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/tvbj2.png" group-title="HongKong",TVBJ2
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/tvbj2hk.m3u8
+#EXTINF:-1 tvg-id="tvbpearl.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/tvbpearl.png" group-title="HongKong",TVB明珠
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/tvbpearlhk.m3u8
+#EXTINF:-1 tvg-id="tvbxinghe.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/tvbxinghe.png" group-title="HongKong",TVB星河
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/tvbxinghehk.m3u8
+#EXTINF:-1 tvg-id="nownews.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/nownews.png" group-title="HongKong",Now新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/nownewshk.m3u8
+#EXTINF:-1 tvg-id="nowlive.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/nowlive.png" group-title="HongKong",Now直播
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/nowlivehk.m3u8
+#EXTINF:-1 tvg-id="viutv.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/viutv.png" group-title="HongKong",ViuTV
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/viutvhk.m3u8
+#EXTINF:-1 tvg-id="icablenews.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/icablenews.png" group-title="HongKong",有线新闻
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/icablenewshk.m3u8
+#EXTINF:-1 tvg-id="icableent.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/icableent.png" group-title="HongKong",有线综合娱乐
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/icableenthk.m3u8
+#EXTINF:-1 tvg-id="icablefin.hk" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/icablefin.png" group-title="HongKong",有线财经资讯
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/icablefinhk.m3u8
+
+#EXTINF:-1 tvg-id="tv1.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/tv1.png" group-title="Malaysia",TV1
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/tv1my.m3u8
+#EXTINF:-1 tvg-id="tv2.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/tv2.png" group-title="Malaysia",TV2
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/tv2my.m3u8
+#EXTINF:-1 tvg-id="tv3.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/tv3.png" group-title="Malaysia",TV3
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/tv3my.m3u8
+#EXTINF:-1 tvg-id="ntv7.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/ntv7.png" group-title="Malaysia",NTV7
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/ntv7my.m3u8
+#EXTINF:-1 tvg-id="8tv.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/8tv.png" group-title="Malaysia",8TV
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/8tvmy.m3u8
+#EXTINF:-1 tvg-id="tv9.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/tv9.png" group-title="Malaysia",TV9
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/tv9my.m3u8
+#EXTINF:-1 tvg-id="tvokey.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/tvokey.png" group-title="Malaysia",TVOkey
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/tvokeymy.m3u8
+#EXTINF:-1 tvg-id="beritartm.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/beritartm.png" group-title="Malaysia",BeritaRTM
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/beritartmmy.m3u8
+#EXTINF:-1 tvg-id="rtmsports.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/rtmsports.png" group-title="Malaysia",RTMSports
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/rtmsportsmy.m3u8
+#EXTINF:-1 tvg-id="bernama.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/bernama.png" group-title="Malaysia",Bernama
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/bernamamy.m3u8
+#EXTINF:-1 tvg-id="astroaec.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astroaec.png" group-title="Malaysia",AstroAEC
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroaecmy.m3u8
+#EXTINF:-1 tvg-id="astroaod.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astroaod.png" group-title="Malaysia",AstroAOD
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroaodmy.m3u8
+#EXTINF:-1 tvg-id="astroquanjia.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astroquanjia.png" group-title="Malaysia",Astro全佳
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroquanjiamy.m3u8
+#EXTINF:-1 tvg-id="astroshuangxing.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astroshuangxing.png" group-title="Malaysia",Astro双星
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroshuangxingmy.m3u8
+#EXTINF:-1 tvg-id="astrohuaheedai.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astrohuaheedai.png" group-title="Malaysia",Astro欢喜
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astrohuaheedaimy.m3u8
+#EXTINF:-1 tvg-id="astrowahlaitoi.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astrowahlaitoi.png" group-title="Malaysia",Astro华丽
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astrowahlaitoimy.m3u8
+#EXTINF:-1 tvg-id="astroxiaotaiyang.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astroxiaotaiyang.png" group-title="Malaysia",Astro小太阳
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroxiaotaiyangmy.m3u8
+#EXTINF:-1 tvg-id="iqiyi.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/iqiyi.png" group-title="Malaysia",爱奇艺
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/iqiyimy.m3u8
+#EXTINF:-1 tvg-id="astroceria.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astroceria.png" group-title="Malaysia",AstroCeria
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroceriamy.m3u8
+#EXTINF:-1 tvg-id="astroria.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astroria.png" group-title="Malaysia",AstroRia
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroriamy.m3u8
+#EXTINF:-1 tvg-id="astrowarna.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astrowarna.png" group-title="Malaysia",AstroWarna
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astrowarnamy.m3u8
+#EXTINF:-1 tvg-id="astroprima.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astroprima.png" group-title="Malaysia",AstroPrima
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroprimamy.m3u8
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astrocitra.png" group-title="Malaysia",AstroCitra
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astrocitramy.m3u8
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astrooasis.png" group-title="Malaysia",AstroOasis
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astrooasismy.m3u8
+#EXTINF:-1 tvg-id="astroaura.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astroaura.png" group-title="Malaysia",AstroAura
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroauramy.m3u8
+#EXTINF:-1 tvg-id="astrorania.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astrorania.png" group-title="Malaysia",AstroRania
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroraniamy.m3u8
+#EXTINF:-1 tvg-id="astroawani.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astroawani.png" group-title="Malaysia",AstroAwani
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroawanimy.m3u8
+#EXTINF:-1 tvg-id="goshop.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/goshop.png" group-title="Malaysia",GoShop
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/goshopmy.m3u8
+#EXTINF:-1 tvg-id="hello.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/hello.png" group-title="Malaysia",Hello
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/hellomy.m3u8
+#EXTINF:-1 tvg-id="naura.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/naura.png" group-title="Malaysia",Naura
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/nauramy.m3u8
+#EXTINF:-1 tvg-id="astroarena.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astroarena.png" group-title="Malaysia",AstroArena
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astroarenamy.m3u8
+#EXTINF:-1 tvg-id="assp.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/assp.png" group-title="Malaysia",ASSP
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/asspmy.m3u8
+#EXTINF:-1 tvg-id="assp2.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/assp2.png" group-title="Malaysia",ASSP2
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/assp2my.m3u8
+#EXTINF:-1 tvg-id="assp3.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/assp3.png" group-title="Malaysia",ASSP3
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/assp3my.m3u8
+#EXTINF:-1 tvg-id="assp4.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/assp4.png" group-title="Malaysia",ASSP4
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/assp4my.m3u8
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/astrocricket.png" group-title="Malaysia",AstroCricket
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/astrocricketmy.m3u8
+#EXTINF:-1 tvg-id="boo.my" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/boo.png" group-title="Malaysia",Boo
+https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/boomy.m3u8
