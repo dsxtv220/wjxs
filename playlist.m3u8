@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dsxtv220/wjxs/master/tvepg.xml"
 
 #EXTINF:-1 tvg-id="cctv1.cn" tvg-logo="https://raw.githubusercontent.com/dsxtv220/wjxs/master/logos/cctv1.png" group-title="China",CCTV-1综合
 https://raw.githubusercontent.com/dsxtv220/wjxs/master/live/cctv1cn.m3u8
